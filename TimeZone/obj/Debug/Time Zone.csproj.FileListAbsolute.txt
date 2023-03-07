@@ -1,0 +1,11 @@
+C:\Users\Tsand\Desktop\C#\Time Zone\bin\Debug\Time Zone.exe.config
+C:\Users\Tsand\Desktop\C#\Time Zone\bin\Debug\Time Zone.exe
+C:\Users\Tsand\Desktop\C#\Time Zone\bin\Debug\Time Zone.pdb
+C:\Users\Tsand\Desktop\C#\Time Zone\obj\Debug\Time Zone.csproj.AssemblyReference.cache
+C:\Users\Tsand\Desktop\C#\Time Zone\obj\Debug\Time Zone.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tsand\Desktop\C#\Time Zone\obj\Debug\Time_Zone.Form1.resources
+C:\Users\Tsand\Desktop\C#\Time Zone\obj\Debug\Time_Zone.Properties.Resources.resources
+C:\Users\Tsand\Desktop\C#\Time Zone\obj\Debug\Time Zone.csproj.GenerateResource.cache
+C:\Users\Tsand\Desktop\C#\Time Zone\obj\Debug\Time Zone.csproj.CoreCompileInputs.cache
+C:\Users\Tsand\Desktop\C#\Time Zone\obj\Debug\Time Zone.exe
+C:\Users\Tsand\Desktop\C#\Time Zone\obj\Debug\Time Zone.pdb

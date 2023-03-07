@@ -1,0 +1,11 @@
+C:\Users\Tsand\Desktop\C#\BurgerTruck\bin\Debug\BurgerTruck.exe.config
+C:\Users\Tsand\Desktop\C#\BurgerTruck\bin\Debug\BurgerTruck.exe
+C:\Users\Tsand\Desktop\C#\BurgerTruck\bin\Debug\BurgerTruck.pdb
+C:\Users\Tsand\Desktop\C#\BurgerTruck\obj\Debug\BurgerTruck.csproj.AssemblyReference.cache
+C:\Users\Tsand\Desktop\C#\BurgerTruck\obj\Debug\BurgerTruck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tsand\Desktop\C#\BurgerTruck\obj\Debug\BurgerTruck.Form1.resources
+C:\Users\Tsand\Desktop\C#\BurgerTruck\obj\Debug\BurgerTruck.Properties.Resources.resources
+C:\Users\Tsand\Desktop\C#\BurgerTruck\obj\Debug\BurgerTruck.csproj.GenerateResource.cache
+C:\Users\Tsand\Desktop\C#\BurgerTruck\obj\Debug\BurgerTruck.csproj.CoreCompileInputs.cache
+C:\Users\Tsand\Desktop\C#\BurgerTruck\obj\Debug\BurgerTruck.exe
+C:\Users\Tsand\Desktop\C#\BurgerTruck\obj\Debug\BurgerTruck.pdb
